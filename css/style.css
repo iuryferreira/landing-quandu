@@ -359,8 +359,6 @@ header {
 
 
 
-
-
 section {
   padding: 100px 0;}
 
@@ -380,12 +378,32 @@ section h3.section-subheading {
   margin-bottom: 75px;}
 
 
+
+/*CONTATO*/
+
+
+
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;}}
 
 
 
+
+section#contato{
+  background-color: #222222;
+  background-image:url('../img/footer.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;}
+
+section#contato .section-heading {
+  color: white;}
+
+.text-muted-white{
+  color: #FFF;
+}
 
 
 
@@ -682,32 +700,6 @@ section h3.section-subheading {
 
 
 
-
-
-
-/*CONTATO*/
-
-
-section#contato {
-  background-color: #222222;
-  background-image: url('../img/footer.png');
-  background-position: center;
-  background-repeat: no-repeat;}
-
-/*HEADING*/
-section#contato .section-heading {
-  color: white;}
-
-
-
-
-
-/*------------------------------------*/
-
-
-
-
-
 /*FOOTER*/
 
 footer {
@@ -715,8 +707,9 @@ footer {
   text-align: center;}
 
 
-
-
+#logo_IF{
+  margin-top: 20px;
+}
 
 /*------------------------------------*/
 
