@@ -2,7 +2,8 @@
   <img alt="Delicias do Seridó" title="Delicias do Seridó" src="img/logotipo1.png" width="200px" />
 </h1>
 
-<h2 style="color:red" align="center"> Delicias do Seridó </h3>
+<h2 align="center"> Delicias do Seridó </h2>
+
 <h3 align="center">
   Landing Page with Bootstrap
 </h3>
@@ -16,8 +17,6 @@
 
   <img alt="License" src="https://img.shields.io/badge/licence-MIT-yellow">
   
-</p>
-
 <p align="center">
   <a href="#rocket-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
@@ -32,8 +31,6 @@ Landing page developed to publicize a candy factory in the Quandu community, in 
 ## :memo: License
 
 MIT Licence. See the file [LICENSE](LICENSE.md) for more details.
-
----
 
 If you have some problem with the documentation, just send a pull request that i'll be happy to help. 😃
 
